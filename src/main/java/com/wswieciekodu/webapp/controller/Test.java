@@ -25,19 +25,4 @@ public class Test {
     public void setTestFlag(boolean testFlag) {
         this.testFlag = testFlag;
     }
-
-    @Override
-    public boolean equals(Object obj) {
-        return super.equals(obj);
-    }
-
-    @Override
-    public int hashCode() {
-        return super.hashCode();
-    }
-
-    @Override
-    public String toString() {
-        return super.toString();
-    }
 }
